@@ -1,2 +1,2 @@
 # mylocalservice
-A test rest api for a laravel project
+A test rest api service
